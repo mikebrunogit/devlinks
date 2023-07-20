@@ -137,7 +137,7 @@ ul li a:hover {
   border: 1.5px solid var(--text-color);
 }
 
-/* social links */
+/*social links*/
 #social-links {
   display: flex;
   justify-content: center;
